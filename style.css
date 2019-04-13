@@ -1,0 +1,53 @@
+body{font-family: Varela Round, sans-serif;
+background-color: #F9B5AC;
+margin: 0;
+text-align: center;
+}
+
+h1, h2 {font-family: 'Montserrat', sans-serif;
+}
+h1{font-weight: bold;  
+color: #88498F}
+
+a {text-decoration: none;
+}
+
+a:hover {
+	opacity: 0.5;
+}
+
+h3 {font-size: 46;}
+
+#banner {
+	background-image: url(https://images.unsplash.com/photo-1519869325930-281384150729?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60);
+	padding: 100px 0px;
+	margin: 0;
+	background-size: cover;
+}
+
+.button a{
+	height: 50px;
+	width: 50px;
+	padding: 15 px 20 px;
+	color: white;
+	background-color: #950952;
+	border-radius: 3px;
+}
+
+#banner p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 26px;
+}
+
+.mycard {padding: 10px 20px;
+background-color: #C8B1ED;
+margin: 20px;}
+
+.mycard img {
+	height: 200px;
+	width: 200px;
+}
+
+
+
+
